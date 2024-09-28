@@ -1,2 +1,3 @@
 This is a main branch?
-&quot;Изменение из ветки main&quot;
+&quot;Изменение из ветки conflict-branch&quot;
+
