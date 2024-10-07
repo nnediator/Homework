@@ -1,3 +1,2 @@
 This is a main branch?
-&quot;Изменение из ветки conflict-branch&quot;
 
